@@ -7,7 +7,7 @@ Identity
 
 Stack
 - Languages
-	Python, C++, SQL, TypeScript, JavA
+	Python, C++, SQL, TypeScript, Java
 - Web
 	FastAPI, Flask, Express, React, HTML, CSS, Tailwind
 - Database
