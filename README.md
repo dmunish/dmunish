@@ -1,9 +1,10 @@
+# Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmunish&theme=github_dark" />
 </p>
 
-
-```csharp
+# Specs
+```
 Identity:
 	Location: Islamabad, Pakistan
 	Education: B.E Software Engineering @ NUST
