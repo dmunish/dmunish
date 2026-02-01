@@ -26,46 +26,21 @@ Identity:
 
 Stack:
 	Languages: 
-		- Python
-		- C++
-		- SQL
-		- TypeScript
-		- Java
-		  
+		Python, C++, SQL, TypeScript, JavA
 	Web:
-		- FastAPI
-		- Flask
-		- Express
-		- React
-		- HTML
-		- CSS
-		- Tailwind
-		  
+		FastAPI, Flask, Express, React, HTML, CSS, Tailwind
 	Database:
-		- PostgreSQL
-		- MongoDB
-		- MySQL
-		- FAISS
-	
+		PostgreSQL, MongoDB, MySQL, FAISS
 	DevOps:
-		- Docker
-		- GitHub Actions
-		- Netlify
-	
+		Docker, GitHub Actions, Netlify
 	Cloud:
-		- Supabase
-		- GCP
-		- Modal
-		- Render
-	
+		Supabase, GCP, Modal, Render
 	Geospatial:
-		- Mapbox GL
-		- PostGIS
-	
+		Mapbox GL, PostGIS
+	AI:
+		vLLM, Scikit-Learn, OpenAI, Transformers
 	Visuals:
-		- Canva
-		- Adobe
-		- Blender 3D
+		Canva, Adobe, Blender 3D
 
 Interests: 
 	- Hiking
