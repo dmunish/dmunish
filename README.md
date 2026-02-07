@@ -19,7 +19,7 @@ Stack
 - Geospatial
 	Mapbox GL, PostGIS
 - AI
-	vLLM, Scikit-Learn, OpenAI, Transformers
+	PyTorch, vLLM, Scikit-Learn, OpenAI, Transformers
 - Design
 	Canva, Adobe, Blender 3D
 
@@ -28,3 +28,4 @@ Interests
 - Photography
 - Narrative Video Games
 - Tech for Good
+```
