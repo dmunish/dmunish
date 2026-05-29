@@ -1,4 +1,4 @@
-<img align="left" src="https://danishmunib.weebly.com/uploads/1/4/6/2/146277355/img-20240525-161121-136_orig.jpg" alt="Landscape shi" border="0" width="300"></img>
+<img align="left" src="https://danishmunib.weebly.com/uploads/1/4/6/2/146277355/img-20240525-161121-136_orig.jpg" alt="Landscape shi" border="0" width="350"></img>
 
 ```sql
 Identity
@@ -8,7 +8,7 @@ Identity
 
 Stack
 - Languages:
-	Python, Go, TypeScript, C++, Java
+	Python, Go, JavaScript/TypeScript, C++, Java
 
 - AI/LLMs:
 	LangChain, LangGraph, RAG, Prompt/Context Engineering,
