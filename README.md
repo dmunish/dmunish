@@ -1,4 +1,4 @@
-<img align="left" src="https://danishmunib.weebly.com/uploads/1/4/6/2/146277355/img-20240525-161121-136_orig.jpg" alt="Landscape shi" border="0" width="360"></img>
+<img align="left" src="https://danishmunib.weebly.com/uploads/1/4/6/2/146277355/img-20240525-161121-136_orig.jpg" alt="Landscape shi" border="0" width="300"></img>
 
 ```sql
 Identity
@@ -11,10 +11,12 @@ Stack
 	Python, Go, TypeScript, C++, Java
 
 - AI/LLMs:
-	LangChain, LangGraph, RAG, Prompt/Context Engineering, LLM APIs, PyTorch
+	LangChain, LangGraph, RAG, Prompt/Context Engineering,
+	LLM APIs, PyTorch, vLLM
 
 - Data Engineering:
-	NumPy, Pandas, Scikit-Learn, Matplotlib, Plotly, Apache ECharts
+	NumPy, Pandas, Scikit-Learn, Matplotlib, Plotly,
+	Apache ECharts
 
 - Databases:
 	PostgreSQL, MySQL, FAISS, Redis
