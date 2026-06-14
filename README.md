@@ -8,7 +8,7 @@ Identity
 
 Stack
 - Languages:
-	Python, Go, JavaScript/TypeScript, C++, Java
+	Python, Go, JavaScript/TypeScript, C++
 
 - AI/LLMs:
 	LangChain, LangGraph, RAG, Prompt/Context Engineering,
