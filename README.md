@@ -15,14 +15,16 @@ Stack
 	LLM APIs, PyTorch, vLLM
 
 - Data Engineering:
-	NumPy, Pandas, Scikit-Learn, Matplotlib, Plotly,
-	Apache ECharts
+	NumPy, Pandas, Scikit-Learn
 
 - Databases:
 	PostgreSQL, MySQL, FAISS, Redis
 
-- Full-stack Web:
-	FastAPI, React, Next.js, Tailwind, Vanilla CSS
+- Backend:
+	FastAPI, Express, Node.js, Bun
+
+- Frontend:
+	React, Next.js, Tailwind CSS, Mapbox GL, Apache ECharts
 
 - Cloud:
 	GCP, Azure, Supabase, Modal
