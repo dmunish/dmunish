@@ -24,7 +24,7 @@ Stack
 	FastAPI, Express, Node.js, Bun
 
 - Frontend:
-	React, Next.js, Tailwind CSS, Mapbox GL, Apache ECharts
+	React, Next.js, Mapbox GL, Apache ECharts
 
 - Cloud:
 	GCP, Azure, Supabase, Modal
