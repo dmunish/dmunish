@@ -1,4 +1,4 @@
-<img align="left" src="https://danishmunib.weebly.com/uploads/1/4/6/2/146277355/img-20240525-161121-136_orig.jpg" alt="Landscape shi" border="0" width="350"></img>
+<img align="left" src="https://github.com/dmunish/dmunish/blob/main/photo.png?raw=true" alt="Landscape shi" border="0" width="350"></img>
 
 ```sql
 Identity
