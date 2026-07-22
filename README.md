@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/dmunish/dmunish/blob/main/photo.jpeg?raw=true" alt="Landscape shi" border="0" width="350"></img>
+<img align="left" src="https://raw.githubusercontent.com/dmunish/dmunish/refs/heads/main/photo.jpg" alt="Landscape shi" border="0" width="350"></img>
 
 ```sql
 Identity
